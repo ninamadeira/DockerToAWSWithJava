@@ -1,1 +1,1 @@
-# Docker para Amazon AWS Implante Apps Java e .NET com Travis CI
+# Docker para Amazon AWS Implante Apps Java e .NET + Travis CI
